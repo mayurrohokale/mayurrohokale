@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">-  🎓 BE. Savitribai Phule Pune University<br><br>- 🔭 I’m currently working on [E-store](https://github.com/mayurrohokale/estore)<br><br>- 🌱 I’m currently learning  AngularJs<br><br>- 📧 How to reach me mayurrohokale1041@gmail.com<br><br>-  📍 Pune, Maharashtra</p>
+- 🎓 BE-Savitribai Phule Pune University
+  
+- 🔭 I’m currently working on [E-store](https://github.com/mayurrohokale/estore)
+
+- 🌱 I’m currently learning **AngularJs**
+
+- 📧 How to reach me **mayurrohokale1041@gmail.com**
+
+- 📍 Pune, Maharashtra
 
 ###
 
