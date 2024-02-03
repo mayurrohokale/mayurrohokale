@@ -10,7 +10,7 @@
 
 ###
 
-- 🎓 BE-Savitribai Phule Pune University
+- 🎓 BE- Savitribai Phule Pune University
   
 - 🔭 I’m currently working on [E-store](https://github.com/mayurrohokale/estore)
 
