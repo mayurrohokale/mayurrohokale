@@ -12,7 +12,7 @@
 
 - 🎓 BE- Savitribai Phule Pune University
   
-- 🔭 I’m currently working on [E-store](https://github.com/mayurrohokale/estore)
+- 🔭 I’m currently working on [Jarvis]([https://github.com/mayurrohokale/jarvis])
 
 - 🌱 I’m currently learning **AngularJs**
 
