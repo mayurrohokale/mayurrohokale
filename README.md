@@ -14,7 +14,7 @@
   
 - 🔭 I’m currently working on [Jarvis]([https://github.com/mayurrohokale/jarvis])
 
-- 🌱 I’m currently learning **AngularJs**
+- 🌱 I’m currently learning **NextJS**
 
 - 📧 How to reach me **mayurrohokale1041@gmail.com**
 
