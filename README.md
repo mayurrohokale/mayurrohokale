@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🎓 BE- Savitribai Phule Pune University<br>  <br>- - 🔭 I’m currently working on [Jarvis](https://github.com/mayurrohokale/jarvis)
+<p align="left">- 🎓 BE- Savitribai Phule Pune University<br>  <br>- - 🔭 I’m currently working on (https://github.com/mayurrohokale/kindnesscorner)
 
 - 🌱 I’m currently learning **Next.js**
 
