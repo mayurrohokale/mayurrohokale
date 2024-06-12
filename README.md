@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Rohokale</h1>
-<h3 align="center">A passionate Web3.0🚀 developer from India</h3>
+<h3 align="center">A passionate Web🚀 developer from India</h3>
 
 
 - 🎓 BE- Savitribai Phule Pune University
