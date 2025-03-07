@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Kindness_Corner](https://github.com/mayurrohokale/Kindness_Corner)
 
-- 👨‍💻 All of my projects are available at [Portfolio]([https://mayurportfolio-five.vercel.app/])
+- 👨‍💻 All of my projects are available at [Portfolio](https://mayurportfolio-five.vercel.app/)
 
 - 📫 How to reach me **mayurrohokale1041@gmail.com**
 
