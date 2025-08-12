@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mayurportfolio-five.vercel.app/)
 
-- 📫 How to reach me **mayurrohokale1041@gmail.com**
+- 📫 How to reach me **contact.mayurrohokale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
