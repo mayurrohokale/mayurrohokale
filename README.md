@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.JS**
 
-- 🔭 I’m currently working on [Kindness_Corner](https://github.com/mayurrohokale/Kindness_Corner)
+- 🔭 I’m currently working on [Spendly](https://centra-expense.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mayurportfolio-five.vercel.app/)
 
