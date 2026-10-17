@@ -18,13 +18,15 @@
 
 ### 👨‍💻 About me
 
-Software engineer in Pune. I like owning a system end to end: the data model, the APIs, the UI and the release.
+Full-stack software engineer with 2 years of experience building and running production systems. At CentraLogic I work directly with clients on a multi-tenant SaaS platform for the UK energy market. I turn their requirements into a design, build it across backend and frontend, and support it in production. That client-facing, end-to-end way of working is what Forward Deployed Engineering roles ask for.
 
-My work sits close to **Forward Deployed Engineering**. I work directly with clients, turn their requirements into production systems, and stay with those systems through release and support.
+Outside work I build and ship my own products, from architecture to deployment.
+
+**Focus:** System design · Multi-tenant SaaS · Access control and security · Client-facing delivery
 
 - 🏢 **Software Engineer @ CentraLogic** (Feb 2026 – now): multi-tenant SaaS platform for the UK energy supply market
-- 🚀 **Built and run [Spendly](https://spendlymoney.com)** (Jun 2026 – now): personal finance app on the web and Android, 600+ commits
-- 💼 **Full Stack Engineer @ DexyAI** (Apr 2025 – Jan 2026): Next.js and FastAPI product work
+- 💼 **Full Stack Engineer @ DexyAI** (Apr 2025 – Jan 2026): Next.js and FastAPI product work for a US startup
+- 🚀 **Founder and engineer, [Spendly](https://spendlymoney.com)** (Jun 2026 – now): personal finance app on the web and Android, 600+ commits
 - 🎓 MCA and B.E., Savitribai Phule Pune University
 
 ### 🏗️ Systems I've designed and built
@@ -45,9 +47,13 @@ My work sits close to **Forward Deployed Engineering**. I work directly with cli
 
 | Project | What it is | Stack | Live | Code |
 | --- | --- | --- | --- | --- |
-| **Spendly** | Personal finance app for India: salary, bills, EMIs, investments and how much is safe to spend each day. Web and Android | Next.js, Node.js, MongoDB, Capacitor | [spendlymoney.com](https://spendlymoney.com) | Private |
+| **Spendly** | Personal finance app for India, on the web and Android. Brings bank accounts, spending, investments, loans, bills and goals into one place, with transactions captured from bank-alert emails and SMS | Next.js, Node.js, MongoDB, Capacitor, Razorpay | [spendlymoney.com](https://spendlymoney.com) | Private |
+| **The Neutral Post** | News platform built around "news beyond bias". Each story is broken into what happened, why it matters and what is still unknown, with sources. A pipeline drafts stories twice a day and an editor reviews every one before it goes live | Next.js, Payload CMS, PostgreSQL, Trigger.dev | [Visit](https://theneutralpost.vercel.app) | Private |
 | **Rohokale Farm** | Website for my family's farm in Maharashtra: onions, organic Keshar mangoes and sweet lime | React, Supabase | [Visit](https://farm-main-gray.vercel.app) | [farm-main](https://github.com/mayurrohokale/farm-main) |
-| **Kindness Corner** | Donation platform | React | [Visit](https://kindness-corner.vercel.app) | Private |
+| **Kindness Corner** | Connects NGOs and donors through voting-based donations, so users vote for causes and funds are allocated transparently | React, Node.js, Express, MongoDB | [Visit](https://kindness-corner.vercel.app) | Private |
+| **E-Store** | Clothing and accessories store with category browsing, product ratings and a cart | Angular, Node.js, Express, MySQL | n/a | [estore](https://github.com/mayurrohokale/estore) |
+| **Naukri Automation** | Automates job search and applications on Naukri.com based on your preferences | Python, Selenium | n/a | [Naukari_Automation](https://github.com/mayurrohokale/Naukari_Automation) |
+| **Customised Virtual File System** | Linux-style file system with its own shell, commands and system call implementations | C, C++ | n/a | [CVFS](https://github.com/mayurrohokale/Customised-Virtual-File-System) |
 
 ### 🛠️ Tech stack
 
