@@ -47,11 +47,12 @@ Software engineer in Pune. I like owning a system end to end: the data model, th
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mayurrohokale&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrohokale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrohokale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=swig,html,css" alt="Top languages" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurrohokale&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayurrohokale/mayurrohokale/output/snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/mayurrohokale/mayurrohokale/output/snake.svg" alt="Contribution snake" width="100%"/>
+</picture>
 
 <p align="center"><sub>Open to full-stack and backend engineering roles. Reach me at <a href="mailto:contact.mayurrohokale@gmail.com">contact.mayurrohokale@gmail.com</a>.</sub></p>
