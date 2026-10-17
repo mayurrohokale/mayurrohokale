@@ -48,10 +48,9 @@
 | [QuizMaster](https://github.com/mayurrohokale/QuizMaster) | Quiz app in React, TypeScript and Vite, with a [Node.js backend](https://github.com/mayurrohokale/Quiz-Master-Backend) |
 | [DSA](https://github.com/mayurrohokale/DSA) | Data structures and algorithms practice in C++ and Python |
 
-### GitHub stats
+### GitHub activity
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurrohokale&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=mayurrohokale&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
 
