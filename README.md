@@ -10,7 +10,7 @@
 <a href="mailto:contact.mayurrohokale@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://twitter.com/mayurrohokale25"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=mayurrohokale&label=Profile%20views&color=2F81F7&style=flat-square" alt="Profile views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mayurrohokale.mayurrohokale&left_text=Profile%20views&right_color=%232F81F7" alt="Profile views"/>
 
 </div>
 
