@@ -41,7 +41,7 @@ Outside work I build and ship my own products, from architecture to deployment.
 
 **Tenant isolation**: found and fixed a cross-tenant cache leak in KPI data.
 
-**Spendly**: one Next.js codebase serving the web app and an Android app (Capacitor). Transaction ingestion from Gmail and SMS bank alerts, Razorpay and Google Play subscriptions, and field-level encryption of personal data.
+**Spendly**: one Next.js codebase serving the web app and an Android app. Transaction ingestion from Gmail and SMS bank alerts, Razorpay and Google Play subscriptions, and field-level encryption of personal data.
 
 ### 🚀 Projects
 
@@ -49,11 +49,9 @@ Outside work I build and ship my own products, from architecture to deployment.
 | --- | --- | --- | --- | --- |
 | **Spendly** | Personal finance app for India, on the web and Android. Brings bank accounts, spending, investments, loans, bills and goals into one place, with transactions captured from bank-alert emails and SMS | Next.js, Node.js, MongoDB, Capacitor, Razorpay | [spendlymoney.com](https://spendlymoney.com) | Private |
 | **The Neutral Post** | News platform built around "news beyond bias". Each story is broken into what happened, why it matters and what is still unknown, with sources. A pipeline drafts stories twice a day and an editor reviews every one before it goes live | Next.js, Payload CMS, PostgreSQL, Trigger.dev | [Visit](https://theneutralpost.vercel.app) | Private |
-| **Rohokale Farm** | Website for my family's farm in Maharashtra: onions, organic Keshar mangoes and sweet lime | React, Supabase | [Visit](https://farm-main-gray.vercel.app) | [farm-main](https://github.com/mayurrohokale/farm-main) |
-| **Kindness Corner** | Connects NGOs and donors through voting-based donations, so users vote for causes and funds are allocated transparently | React, Node.js, Express, MongoDB | [Visit](https://kindness-corner.vercel.app) | Private |
-| **E-Store** | Clothing and accessories store with category browsing, product ratings and a cart | Angular, Node.js, Express, MySQL | n/a | [estore](https://github.com/mayurrohokale/estore) |
-| **Naukri Automation** | Automates job search and applications on Naukri.com based on your preferences | Python, Selenium | n/a | [Naukari_Automation](https://github.com/mayurrohokale/Naukari_Automation) |
 | **Customised Virtual File System** | Linux-style file system with its own shell, commands and system call implementations | C, C++ | n/a | [CVFS](https://github.com/mayurrohokale/Customised-Virtual-File-System) |
+| **Kindness Corner** | Connects NGOs and donors through voting-based donations, so users vote for causes and funds are allocated transparently | React, Node.js, Express, MongoDB | [Visit](https://kindness-corner.vercel.app) | Private |
+| **Rohokale Farm** | Website for my family's farm in Maharashtra: onions, organic Keshar mangoes and sweet lime | React, Supabase | [Visit](https://farm-main-gray.vercel.app) | [farm-main](https://github.com/mayurrohokale/farm-main) |
 
 ### 🛠️ Tech stack
 
