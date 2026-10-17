@@ -2,13 +2,15 @@
 
 # Hi, I'm Mayur Rohokale
 
-<a href="https://mayurportfolio-five.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;System+Design+%C2%B7+Multi-tenant+SaaS;Building+Spendly+%E2%80%94+spendlymoney.com" alt="Typing SVG"/></a>
+<a href="https://mayurportfolio-five.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Forward+Deployed+Engineer;System+Design+%C2%B7+Multi-tenant+SaaS;Building+Spendly+%E2%80%94+spendlymoney.com" alt="Typing SVG"/></a>
 
 <a href="https://mayurportfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/mayur-rohokale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://spendlymoney.com"><img src="https://img.shields.io/badge/Spendly-16A34A?style=for-the-badge&logoColor=white" alt="Spendly"/></a>
 <a href="mailto:contact.mayurrohokale@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://twitter.com/mayurrohokale25"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=mayurrohokale&label=Profile%20views&color=2F81F7&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -17,6 +19,8 @@
 ### 👨‍💻 About me
 
 Software engineer in Pune. I like owning a system end to end: the data model, the APIs, the UI and the release.
+
+My work sits close to **Forward Deployed Engineering**. I work directly with clients, turn their requirements into production systems, and stay with those systems through release and support.
 
 - 🏢 **Software Engineer @ CentraLogic** (Feb 2026 – now): multi-tenant SaaS platform for the UK energy supply market
 - 🚀 **Built and run [Spendly](https://spendlymoney.com)** (Jun 2026 – now): personal finance app on the web and Android, 600+ commits
@@ -37,6 +41,17 @@ Software engineer in Pune. I like owning a system end to end: the data model, th
 
 **Spendly**: one Next.js codebase serving the web app and an Android app (Capacitor). Transaction ingestion from Gmail and SMS bank alerts, Razorpay and Google Play subscriptions, and field-level encryption of personal data.
 
+### 🚀 Projects
+
+| Project | What it is | Stack | Live | Code |
+| --- | --- | --- | --- | --- |
+| **Spendly** | Personal finance app for India: salary, bills, EMIs, investments and how much is safe to spend each day. Web and Android | Next.js, Node.js, MongoDB, Capacitor | [spendlymoney.com](https://spendlymoney.com) | Private |
+| **Rohokale Farm** | Website for my family's farm in Maharashtra: onions, organic Keshar mangoes and sweet lime | React, Supabase | [Visit](https://farm-main-gray.vercel.app) | [farm-main](https://github.com/mayurrohokale/farm-main) |
+| **Kindness Corner** | Donation platform | React | [Visit](https://kindness-corner.vercel.app) | Private |
+| **QuizMaster** | Quiz app with a separate Node.js API | React, TypeScript, Vite, Node.js | [Visit](https://quiz-master-gray.vercel.app) | [Frontend](https://github.com/mayurrohokale/QuizMaster) · [Backend](https://github.com/mayurrohokale/Quiz-Master-Backend) |
+| **Portfolio** | My personal portfolio | React | [Visit](https://mayurportfolio-five.vercel.app) | [New_Portfolio](https://github.com/mayurrohokale/New_Portfolio) |
+| **Virtual File System** | Linux-style file system in C++ with its own shell and system calls | C++ | n/a | [Repo](https://github.com/mayurrohokale/Customised-Virtual-File-System) |
+
 ### 🛠️ Tech stack
 
 <p align="center">
@@ -55,4 +70,6 @@ Software engineer in Pune. I like owning a system end to end: the data model, th
   <img src="https://raw.githubusercontent.com/mayurrohokale/mayurrohokale/output/snake.svg" alt="Contribution snake" width="100%"/>
 </picture>
 
-<p align="center"><sub>Open to full-stack and backend engineering roles. Reach me at <a href="mailto:contact.mayurrohokale@gmail.com">contact.mayurrohokale@gmail.com</a>.</sub></p>
+<p align="center"><sub>Open to full-stack, backend and forward deployed engineering roles. Reach me at <a href="mailto:contact.mayurrohokale@gmail.com">contact.mayurrohokale@gmail.com</a>.</sub></p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/mayurrohokale"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=mayurrohokale&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" height="45"/></a></p>
