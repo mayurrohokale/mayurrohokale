@@ -1,48 +1,58 @@
-<h1 align="center">Hi 👋, I'm Mayur Rohokale</h1>
-<h3 align="center">A passionate Web🚀 developer from India</h3>
+<h1 align="center">Hi, I'm Mayur Rohokale</h1>
 
+<p align="center">
+  <b>Full-Stack Software Engineer · Generative AI</b><br/>
+  Pune, India. I build multi-tenant SaaS at CentraLogic and run <a href="https://spendlymoney.com">Spendly</a>, an AI personal finance app.
+</p>
 
-- 🎓 BE- Savitribai Phule Pune University
+<p align="center">
+  <a href="https://mayurportfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/mayur-rohokale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://spendlymoney.com"><img src="https://img.shields.io/badge/Spendly-spendlymoney.com-16A34A?style=for-the-badge" alt="Spendly"/></a>
+  <a href="mailto:contact.mayurrohokale@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/mayurrohokale25"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-- 🌱 I’m currently learning **Node.JS**
+---
 
-- 🔭 I’m currently working on [Spendly](https://spendlymoney.com)
+### About me
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://mayurportfolio-five.vercel.app/)
+- **Software Engineer at CentraLogic** (Feb 2026 – now). Multi-tenant SaaS for the UK energy supply market. I designed a staged RBAC and identity migration from Neo4j to PostgreSQL, and built the broker portal, a work queue and the pricing matrix generator.
+- **Full Stack Engineer at DexyAI** (Apr 2025 – Jan 2026). Built an AI auto-reply system for Udemy instructors with Next.js and FastAPI, with a human review step before anything is sent.
+- **Builder of Spendly** (Jun 2026 – now). I designed, built and run it on my own.
+- MCA and B.E. from Savitribai Phule Pune University.
 
-- 📫 How to reach me **contact.mayurrohokale@gmail.com**
+### What I'm building: Spendly
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-<a href="https://twitter.com/mayurrohokale25" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mayur-rohokale" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mayur_rohokale" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+[Spendly](https://spendlymoney.com) is a personal finance app for India, on the web and Android. It covers accounts, budgets, bills, goals, investments with XIRR and bill splitting. The AI parts:
 
+- **Ask Spendly** is an LLM assistant (Gemini) that answers from a snapshot of the user's own accounts, spending, goals and loans. A guard checks every rupee figure in the reply against that data and flags any number it can't trace.
+- **Auto-capture** reads Gmail and SMS bank alerts with per-bank parsers. When a parser misses, Claude extracts the transaction as strict JSON that is validated with Zod.
+- **Cost control** comes from a deterministic quick-answer layer, a 15-minute response cache, per-plan daily AI allowances, and fallback across API keys and models when rate limits hit.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+`Next.js` `React` `Node.js` `MongoDB` `Gemini API` `Claude API` `Capacitor` `Razorpay` `Vercel`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurrohokale&show_icons=true&locale=en&layout=compact" alt="mayurrohokale" height="170"  /></p>
+### Tech I work with
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurrohokale&show_icons=true&locale=en" alt="mayurrohokale" height="170" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,postgres,mongodb,prisma,tailwind,docker,kubernetes,azure,gcp,vercel,git&perline=9" alt="Tech stack"/>
+</p>
 
+**Generative AI:** LLM apps with the Gemini and Claude APIs, prompt engineering, context grounding, structured outputs (JSON Schema + Zod), hallucination checks, cost and rate-limit handling.
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurrohokale&" alt="mayurrohokale" /></p>
+### Some public repos
 
+| Repo | What it is |
+| --- | --- |
+| [Customised-Virtual-File-System](https://github.com/mayurrohokale/Customised-Virtual-File-System) | A Linux-style file system in C++ with its own shell and system calls |
+| [QuizMaster](https://github.com/mayurrohokale/QuizMaster) | Quiz app in React, TypeScript and Vite, with a [Node.js backend](https://github.com/mayurrohokale/Quiz-Master-Backend) |
+| [DSA](https://github.com/mayurrohokale/DSA) | Data structures and algorithms practice in C++ and Python |
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/mayurrohokale" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+### GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurrohokale&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=mayurrohokale&hide_border=true" alt="GitHub streak" height="165"/>
+</p>
+
+<p align="center"><sub>Open to conversations about full-stack and AI engineering roles. The quickest way to reach me is <a href="mailto:contact.mayurrohokale@gmail.com">email</a>.</sub></p>
