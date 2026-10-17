@@ -1,57 +1,57 @@
-<h1 align="center">Hi, I'm Mayur Rohokale</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Software Engineer · Generative AI</b><br/>
-  Pune, India. I build multi-tenant SaaS at CentraLogic and run <a href="https://spendlymoney.com">Spendly</a>, an AI personal finance app.
-</p>
+# Hi, I'm Mayur Rohokale
 
-<p align="center">
-  <a href="https://mayurportfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/mayur-rohokale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://spendlymoney.com"><img src="https://img.shields.io/badge/Spendly-spendlymoney.com-16A34A?style=for-the-badge" alt="Spendly"/></a>
-  <a href="mailto:contact.mayurrohokale@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://twitter.com/mayurrohokale25"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-</p>
+<a href="https://mayurportfolio-five.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;System+Design+%C2%B7+Multi-tenant+SaaS;Building+Spendly+%E2%80%94+spendlymoney.com" alt="Typing SVG"/></a>
+
+<a href="https://mayurportfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/mayur-rohokale"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://spendlymoney.com"><img src="https://img.shields.io/badge/Spendly-16A34A?style=for-the-badge&logoColor=white" alt="Spendly"/></a>
+<a href="mailto:contact.mayurrohokale@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://twitter.com/mayurrohokale25"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+
+</div>
 
 ---
 
-### About me
+### 👨‍💻 About me
 
-- **Software Engineer at CentraLogic** (Feb 2026 – now). Multi-tenant SaaS for the UK energy supply market. I designed a staged RBAC and identity migration from Neo4j to PostgreSQL, and built the broker portal, a work queue and the pricing matrix generator.
-- **Full Stack Engineer at DexyAI** (Apr 2025 – Jan 2026). Built an AI auto-reply system for Udemy instructors with Next.js and FastAPI, with a human review step before anything is sent.
-- **Builder of Spendly** (Jun 2026 – now). I designed, built and run it on my own.
-- MCA and B.E. from Savitribai Phule Pune University.
+Software engineer in Pune. I like owning a system end to end: the data model, the APIs, the UI and the release.
 
-### What I'm building: Spendly
+- 🏢 **Software Engineer @ CentraLogic** (Feb 2026 – now): multi-tenant SaaS platform for the UK energy supply market
+- 🚀 **Built and run [Spendly](https://spendlymoney.com)** (Jun 2026 – now): personal finance app on the web and Android, 600+ commits
+- 💼 **Full Stack Engineer @ DexyAI** (Apr 2025 – Jan 2026): Next.js and FastAPI product work
+- 🎓 MCA and B.E., Savitribai Phule Pune University
 
-[Spendly](https://spendlymoney.com) is a personal finance app for India, on the web and Android. It covers accounts, budgets, bills, goals, investments with XIRR and bill splitting. The AI parts:
+### 🏗️ Systems I've designed and built
 
-- **Ask Spendly** is an LLM assistant (Gemini) that answers from a snapshot of the user's own accounts, spending, goals and loans. A guard checks every rupee figure in the reply against that data and flags any number it can't trace.
-- **Auto-capture** reads Gmail and SMS bank alerts with per-bank parsers. When a parser misses, Claude extracts the transaction as strict JSON that is validated with Zod.
-- **Cost control** comes from a deterministic quick-answer layer, a 15-minute response cache, per-plan daily AI allowances, and fallback across API keys and models when rate limits hit.
+**Identity and access migration**: a staged RBAC and identity migration from Neo4j to PostgreSQL. Dual-write, shadow comparison and a single entitlement resolver, rolled out behind feature flags.
 
-`Next.js` `React` `Node.js` `MongoDB` `Gemini API` `Claude API` `Capacitor` `Razorpay` `Vercel`
+**Broker portal**: built end to end. Single and bulk quoting, approval workflows, role-based multi-user accounts, and an Excel quoting API secured with per-broker encrypted keys.
 
-### Tech I work with
+**Work queue**: routes operational exceptions to the team that owns them, with assignment, notifications and a Kanban board.
 
-<p>
+**Pricing matrix generator**: produces price books across 8 consumption bands. Differential tests prove live quotes stay unchanged after pricing fixes.
+
+**Tenant isolation**: found and fixed a cross-tenant cache leak in KPI data.
+
+**Spendly**: one Next.js codebase serving the web app and an Android app (Capacitor). Transaction ingestion from Gmail and SMS bank alerts, Razorpay and Google Play subscriptions, and field-level encryption of personal data.
+
+### 🛠️ Tech stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,postgres,mongodb,prisma,tailwind,docker,kubernetes,azure,gcp,vercel,git&perline=9" alt="Tech stack"/>
 </p>
 
-**Generative AI:** LLM apps with the Gemini and Claude APIs, prompt engineering, context grounding, structured outputs (JSON Schema + Zod), hallucination checks, cost and rate-limit handling.
+### 📊 GitHub stats
 
-### Some public repos
-
-| Repo | What it is |
-| --- | --- |
-| [Customised-Virtual-File-System](https://github.com/mayurrohokale/Customised-Virtual-File-System) | A Linux-style file system in C++ with its own shell and system calls |
-| [QuizMaster](https://github.com/mayurrohokale/QuizMaster) | Quiz app in React, TypeScript and Vite, with a [Node.js backend](https://github.com/mayurrohokale/Quiz-Master-Backend) |
-| [DSA](https://github.com/mayurrohokale/DSA) | Data structures and algorithms practice in C++ and Python |
-
-### GitHub activity
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=mayurrohokale&hide_border=true" alt="GitHub streak" height="165"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mayurrohokale&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrohokale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="170"/>
 </p>
 
-<p align="center"><sub>Open to conversations about full-stack and AI engineering roles. The quickest way to reach me is <a href="mailto:contact.mayurrohokale@gmail.com">email</a>.</sub></p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurrohokale&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%"/>
+</p>
+
+<p align="center"><sub>Open to full-stack and backend engineering roles. Reach me at <a href="mailto:contact.mayurrohokale@gmail.com">contact.mayurrohokale@gmail.com</a>.</sub></p>
