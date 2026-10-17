@@ -48,9 +48,6 @@ My work sits close to **Forward Deployed Engineering**. I work directly with cli
 | **Spendly** | Personal finance app for India: salary, bills, EMIs, investments and how much is safe to spend each day. Web and Android | Next.js, Node.js, MongoDB, Capacitor | [spendlymoney.com](https://spendlymoney.com) | Private |
 | **Rohokale Farm** | Website for my family's farm in Maharashtra: onions, organic Keshar mangoes and sweet lime | React, Supabase | [Visit](https://farm-main-gray.vercel.app) | [farm-main](https://github.com/mayurrohokale/farm-main) |
 | **Kindness Corner** | Donation platform | React | [Visit](https://kindness-corner.vercel.app) | Private |
-| **QuizMaster** | Quiz app with a separate Node.js API | React, TypeScript, Vite, Node.js | [Visit](https://quiz-master-gray.vercel.app) | [Frontend](https://github.com/mayurrohokale/QuizMaster) · [Backend](https://github.com/mayurrohokale/Quiz-Master-Backend) |
-| **Portfolio** | My personal portfolio | React | [Visit](https://mayurportfolio-five.vercel.app) | [New_Portfolio](https://github.com/mayurrohokale/New_Portfolio) |
-| **Virtual File System** | Linux-style file system in C++ with its own shell and system calls | C++ | n/a | [Repo](https://github.com/mayurrohokale/Customised-Virtual-File-System) |
 
 ### 🛠️ Tech stack
 
