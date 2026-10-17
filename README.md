@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.JS**
 
-- 🔭 I’m currently working on [Spendly](https://centra-expense.vercel.app/)
+- 🔭 I’m currently working on [Spendly](https://spendlymoney.com)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://mayurportfolio-five.vercel.app/)
 
