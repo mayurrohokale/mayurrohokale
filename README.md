@@ -43,6 +43,12 @@ Outside work I build and ship my own products, from architecture to deployment.
 
 **Spendly**: one Next.js codebase serving the web app and an Android app. Transaction ingestion from Gmail and SMS bank alerts, Razorpay and Google Play subscriptions, and field-level encryption of personal data.
 
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,postgres,mongodb,prisma,tailwind,docker,kubernetes,azure,gcp,vercel,git&perline=9" alt="Tech stack"/>
+</p>
+
 ### 🚀 Projects
 
 | Project | What it is | Stack | Live | Code |
@@ -53,11 +59,6 @@ Outside work I build and ship my own products, from architecture to deployment.
 | **Kindness Corner** | Connects NGOs and donors through voting-based donations, so users vote for causes and funds are allocated transparently | React, Node.js, Express, MongoDB | [Visit](https://kindness-corner.vercel.app) | Private |
 | **Rohokale Farm** | Website for my family's farm in Maharashtra: onions, organic Keshar mangoes and sweet lime | React, Supabase | [Visit](https://farm-main-gray.vercel.app) | [farm-main](https://github.com/mayurrohokale/farm-main) |
 
-### 🛠️ Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,postgres,mongodb,prisma,tailwind,docker,kubernetes,azure,gcp,vercel,git&perline=9" alt="Tech stack"/>
-</p>
 
 ### 📊 GitHub stats
 
