@@ -55,6 +55,12 @@ Outside work I build and ship my own products, from architecture to deployment.
 #### Spendly · my own product
 **What it is:** a personal finance app for India that shows how much of your balance is actually safe to spend. **What I built:** all of it, solo. One Next.js codebase serving the web app and an Android app, transaction capture from Gmail and SMS bank alerts, Razorpay and Google Play subscriptions, and field-level encryption of personal data.
 
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,postgres,mongodb,prisma,tailwind,docker,kubernetes,azure,gcp,vercel,git&perline=9" alt="Tech stack"/>
+</p>
+
 ### 🚀 Projects
 
 | Project | What it is | Stack | Live | Code |
