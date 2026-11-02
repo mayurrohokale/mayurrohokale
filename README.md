@@ -50,9 +50,9 @@ Outside work I build and ship my own products, from architecture to deployment.
 - **Pricing Matrix generator:** builds Excel price books across 8 consumption bands from tariff and network costs. Fixed 14 critical pricing defects, with differential tests proving live quotes stayed unchanged.
 
 #### Dexy · DexyAI
-**What it is:** a product for online course creators (Udemy instructors) to manage student messages and email campaigns.
+**What it is:** an autonomous AI sales rep (AI SDR) for B2B teams. Dexy finds prospects that match a company's ideal customer profile, runs personalised outreach over email and LinkedIn, and books meetings around the clock, so sales teams can grow their pipeline and focus on closing.
 
-**What I built on it:** an auto-reply system that reads message threads and drafts replies for the instructor to review before sending, a move of the web app to React Query, FastAPI endpoints, and fixes across campaign and messaging flows.
+**What I built on it:** an AI auto-reply system that reads prospect conversation threads and drafts context-aware responses for review before sending, a move of the web app to React Query, FastAPI endpoints for outreach and messaging, and fixes across campaign and messaging flows.
 
 #### Spendly · my own product
 **What it is:** a personal finance app for India that shows how much of your balance is actually safe to spend. **What I built:** all of it, solo. One Next.js codebase serving the web app and an Android app, transaction capture from Gmail and SMS bank alerts, Razorpay and Google Play subscriptions, and field-level encryption of personal data.
